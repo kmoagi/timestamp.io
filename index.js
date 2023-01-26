@@ -1,4 +1,4 @@
-// index.js
+// index.js file
 // where your node app starts
 
 // init project
